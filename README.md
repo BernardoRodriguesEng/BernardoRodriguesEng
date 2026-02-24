@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Experiências de Destaque
-* **[Mentorix - Gestão de Monitoria](https://github.com/BernardoRodriguesEng/Mentorix-Project):** Desenvolvimento Full Stack com Flutter e Firebase. [cite_start]Implementei fluxos de autenticação, arquitetura de dados no Firestore e notificações push.
+* **[Mentorix - Gestão de Monitoria](https://github.com/BernardoRodriguesEng/Mentorix-Project):** Desenvolvimento Full Stack com Flutter e Firebase. Implementei fluxos de autenticação, arquitetura de dados no Firestore e notificações push.
 * **[Projeto IoT Escolas](https://github.com/BernardoRodriguesEng/ppl-ec-2025-1-3-iot-t1-g1-trabalho-iot-carro):** Solução IoT usando ESP32 e protocolo MQTT para monitoramento ambiental, com persistência de dados em MySQL e dashboards real-time.
 * **[RoboChallenge 2025](https://github.com/BernardoRodriguesEng/macaco-amarelo-robochallenge-2025):** Desenvolvimento do software de controle para robô de sumô da equipe campeã "Macaco Amarelo".
 
