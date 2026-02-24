@@ -17,12 +17,13 @@ Sou um desenvolvedor focado em unir o mundo do software com o hardware. Tenho ex
 ---
 
 ## 🚀 Experiências de Destaque
-* [cite_start]**Desenvolvedor Full Stack Mobile (Mentorix):** Implementação de sistemas de monitoria com Flutter e Firebase, incluindo notificações push e arquitetura NoSQL[cite: 23, 26].
-* [cite_start]**Desenvolvedor IoT (Projeto de Extensão):** Criação de dashboards em tempo real e persistência de dados em MySQL utilizando ESP32 e protocolo MQTT[cite: 29, 31].
+* **[Mentorix - Gestão de Monitoria](https://github.com/BernardoRodriguesEng/Mentorix-Project):** Desenvolvimento Full Stack com Flutter e Firebase. [cite_start]Implementei fluxos de autenticação, arquitetura de dados no Firestore e notificações push[cite: 21, 23, 25, 26].
+* [cite_start]**[Projeto IoT Escolas](https://github.com/BernardoRodriguesEng/ppl-ec-2025-1-3-iot-t1-g1-trabalho-iot-carro):** Solução IoT usando ESP32 e protocolo MQTT para monitoramento ambiental, com persistência de dados em MySQL e dashboards real-time[cite: 28, 29, 31].
+* **[RoboChallenge 2025](https://github.com/BernardoRodriguesEng/macaco-amarelo-robochallenge-2025):** Desenvolvimento do software de controle para robô de sumô da equipe campeã "Macaco Amarelo".
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BernardoRodriguesEng&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BernardoRodriguesEng&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Bernardo" />
 </p>
 
 ---
