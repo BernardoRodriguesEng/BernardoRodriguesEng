@@ -17,9 +17,10 @@ Sou apaixonado por transformar hardware e código em soluções reais, com foco 
 * 🕹️ **Arcade de Robô**: Controle e interação de microcontroladores.
 
 ## 📊 Estatísticas e Linguagens
+## 📊 Estatísticas e Linguagens
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BernardoRodriguesEng&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BernardoRodriguesEng&layout=compact&theme=radical&hide_title=false" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BernardoRodriguesEng&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BernardoRodriguesEng&layout=compact&theme=radical&hide_title=false&include_all_commits=true" />
 </p>
 
 ---
