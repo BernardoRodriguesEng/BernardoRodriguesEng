@@ -18,7 +18,11 @@ Sou apaixonado por transformar hardware e código em soluções reais, com foco 
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=BernardoRodriguesEng&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardoRodriguesEng&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Bernardo" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoRodriguesEng&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 ---
